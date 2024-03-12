@@ -18,8 +18,6 @@ Here are some exploration ideas to get you started:
 3. **Gender Pay Gap**: Explore whether there is evidence of pay discrimination based on gender. Compare average compensation between male and female employees.
 4. **Budget Allocation**: Analyze how budget is allocated based on different employee groups and responsibilities. Which departments receive the highest funding?
 
-Feel free to explore further and draw meaningful conclusions from this dataset! 📊🔍
-
 ---
 
 **Dataset Source**: San Francisco City Government (2011-2014).
